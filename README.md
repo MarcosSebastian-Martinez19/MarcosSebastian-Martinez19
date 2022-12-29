@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Marcos 👋 👨‍💻
 
-<!--
-**MarcosSebastian-Martinez19/MarcosSebastian-Martinez19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Argentinian** 🇦🇷
 
-Here are some ideas to get you started:
+👨‍🎓 💻 ***Computer Science at [National University of Córdoba](https://www.unc.edu.ar/)***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a ***Front End Developer*** who is passionate about creating new user interfaces.
+
+Some technologies i enjoy working with includes **HTML5**, **CSS3**, **JavaScript**, **Bootstrap 5**, **ReactJS**.
+
+## Find me around the web 🌎
+
+- 🤝 Sharing updates on [Linkedin](https://www.linkedin.com/in/marcos-sebasti%C3%A1n-mart%C3%ADnez-bbb3a4217/)
+
+- 📧 Send me an email [marcossebastian429@gmail.com](mailto:marcossebastian429@gmail.com)
