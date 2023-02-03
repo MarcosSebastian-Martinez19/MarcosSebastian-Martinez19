@@ -6,7 +6,7 @@
 
 I'm a ***Front End Developer*** who is passionate about creating new user interfaces.
 
-Some technologies i enjoy working with includes **HTML5**, **CSS3**, **SASS**, **Bootstrap 5**, **JavaScript**, **TypeScript**, **ReactJS**, **Angular 12+**, **Angular Material**.
+Some technologies i enjoy working with includes **HTML5**, **CSS3**, **SASS**, **Bootstrap 5**, **JavaScript**, **TypeScript**, **React JS**, **Angular 12+**, **Angular Material**.
 
 ## Languages and Tools:
 
