@@ -8,7 +8,7 @@ I'm a ***Front End Developer*** who is passionate about creating new user interf
 
 Some technologies i enjoy working with includes **HTML5**, **CSS3**, **SASS**, **Bootstrap 5**, **JavaScript**, **TypeScript**, **React JS**, **Angular 12+**, **Angular Material**.
 
-## 💻 Tech Stack
+## 💻 Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
@@ -28,7 +28,7 @@ Some technologies i enjoy working with includes **HTML5**, **CSS3**, **SASS**, *
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" width="52" alt="firefox logo"  />
 </div>
 
-## Find me around the web 🌎
+## 🌎 Find me around the web 
 
 *   🤝  Sharing updates [LinkedIn](https://linkedin.com/in/marcos-sebastian-martinez)
 *   🖥️  See my portfolio at [Portfolio](http://https://personal-portfolio-mm.netlify.app/)
