@@ -32,7 +32,7 @@ Some technologies i enjoy working with includes **HTML5**, **CSS3**, **SASS**, *
 ## 🌎 Find me around the web 
 
 *   🤝  Sharing updates [LinkedIn](https://linkedin.com/in/marcos-sebastian-martinez)
-*   🖥️  See my portfolio at [Portfolio](http://https://personal-portfolio-marcos-martinez.netlify.app/)
+*   🖥️  See my portfolio at [Portfolio](https://personal-portfolio-marcos-martinez.netlify.app/)
 *   📧  You can contact me at [marcossebastian429@gmail.com](mailto:marcossebastian429@gmail.com)
 
 ## 📊 GitHub Stats
