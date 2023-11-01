@@ -37,4 +37,4 @@ Some technologies i enjoy working with includes **HTML5**, **CSS3**, **SASS**, *
 
 ## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosSebastian-Martinez19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosSebastian-Martinez19&layout=compact&locale=en&hide_title=false&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2)](https://github.com/SrGobi/github-readme-stats)
